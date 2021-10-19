@@ -1,2 +1,2 @@
 # f21-tutorial-2-javascript
-Tutorial #2 - JS
+QWeb Education Fall 2021 Tutorial 2 - Javascript
